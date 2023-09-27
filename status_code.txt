@@ -1,0 +1,21 @@
+100 - Continue
+200 - Ok
+201 - Created
+202 - Accepted
+203 - Non-Authoritative
+207 - Multi Status
+300 - Multiple choices
+301 - Move permanently
+302 - Found
+400 - Bad Request
+401 - Authorized
+402 - Payment Required
+403 - Forbidden
+404 - Not Found
+405 - Method not Allowed
+406 - Not Acceptable
+429 - Too Many Requests
+500 - Internal Server Error
+502 - Bad Gateway
+503 - Service Unavailable
+504 - Gateway Timeout
